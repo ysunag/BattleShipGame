@@ -1,6 +1,6 @@
 # battleship-game
 Battleship game for Console played between a single player and a computer.
-** Game Rule:
+## Game Rule:
 * The game is played between two players, each has a 2-dimensional map (board), where fleet of ships is placed (this is a fleet map).
 * None of the players can see the opponent’s fleet map.
 * The objective of the game is to sink the entire fleet of the opponent, before the opponent sinks all your ships.
